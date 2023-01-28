@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/qr-code/static/css/main.fb60e8a4.css",
+    "main.js": "/qr-code/static/js/main.0eb1efb2.js",
+    "index.html": "/qr-code/index.html",
+    "main.fb60e8a4.css.map": "/qr-code/static/css/main.fb60e8a4.css.map",
+    "main.0eb1efb2.js.map": "/qr-code/static/js/main.0eb1efb2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb60e8a4.css",
+    "static/js/main.0eb1efb2.js"
+  ]
+}
