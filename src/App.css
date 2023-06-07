@@ -6,6 +6,17 @@
     font-family: 'Roboto Mono', monospace;
 }
 
+::-webkit-scrollbar{
+    width: 8px;
+}
+::-webkit-scrollbar-track{
+    background: black;
+}
+::-webkit-scrollbar-thumb{
+    background: linear-gradient(360deg, #29c047 0%, #060906 100%);
+    border-radius: 20px;
+}
+
 .App {
   text-align: center;
 }
