@@ -1,4 +1,5 @@
 # QR Code Generator
 
 
-![20230128112055](https://user-images.githubusercontent.com/75996200/215261417-a060138e-5b1b-4e31-a168-210e880ea873.png)
+![20230607133609](https://github.com/GuillaumeSere/qr-code/assets/75996200/1f7c537f-7058-45cb-a3e1-d99c922c007b)
+
